@@ -24,7 +24,7 @@ Atualmente trabalho com HTML, CSS e JavaScript, criando sites modernos e respons
 ---
 
 ## 🌐 Onde me encontrar
-🌎 [Portfólio)](https://milla336.github.io)  
+🌎 [Portfólio)](https://milla336.github.io/milla336/)  
 📧 *Email:*millasantos668@gmail.com 
 📱Instagram: @mil_adev
 
